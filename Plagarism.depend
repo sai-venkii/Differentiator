@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1670992928 source:f:\c\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+
+1670934847 f:\c\plagarism\lines_calc.h
+	<stdio.h>
+
+1670936187 source:f:\c\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1670982793 source:f:\c\plagarism\indexnotmatch.c
+	<string.h>
+	<stdio.h>
+	"IndexNotMatch.h"
+
+1670978287 f:\c\plagarism\indexnotmatch.h
+	<string.h>
+	<stdio.h>
+
+1670982793 source:c:\users\abhilash\desktop\plagarism\indexnotmatch.c
+	<string.h>
+	<stdio.h>
+	"IndexNotMatch.h"
+
+1670978287 c:\users\abhilash\desktop\plagarism\indexnotmatch.h
+	<string.h>
+	<stdio.h>
+
+1670936187 source:c:\users\abhilash\desktop\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1670934847 c:\users\abhilash\desktop\plagarism\lines_calc.h
+	<stdio.h>
+
+1671007396 source:c:\users\abhilash\desktop\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+
+1671062421 source:c:\users\admin\downloads\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1671062422 c:\users\admin\downloads\plagarism\lines_calc.h
+	<stdio.h>
+
+1671073580 source:c:\users\admin\downloads\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+	"htmlFix.h"
+
+1671062417 source:c:\users\admin\downloads\plagarism\indexnotmatch.c
+	<string.h>
+	<stdio.h>
+	"IndexNotMatch.h"
+
+1671062420 c:\users\admin\downloads\plagarism\indexnotmatch.h
+	<string.h>
+	<stdio.h>
+
+1671073828 c:\users\admin\downloads\plagarism\htmlfix.h
+
+1671073828 source:c:\users\admin\downloads\plagarism\htmlfix.c
+	<stdio.h>
+	"htmlFix.h"
+
+1671073828 source:k:\sai\college\c - package\plagarism\htmlfix.c
+	<stdio.h>
+	"htmlFix.h"
+
+1671073828 k:\sai\college\c - package\plagarism\htmlfix.h
+
+1671062421 source:k:\sai\college\c - package\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1671062422 k:\sai\college\c - package\plagarism\lines_calc.h
+	<stdio.h>
+
+1671073872 source:k:\sai\college\c - package\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+	"htmlFix.h"
+
+1671073828 source:k:\sai\college\c_package\plagarism\htmlfix.c
+	<stdio.h>
+	"htmlFix.h"
+
+1671073828 k:\sai\college\c_package\plagarism\htmlfix.h
+
+1671062421 source:k:\sai\college\c_package\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1671062422 k:\sai\college\c_package\plagarism\lines_calc.h
+	<stdio.h>
+
+1671073872 source:k:\sai\college\c_package\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+	"htmlFix.h"
+
+1671073828 source:k:\sai\college\sem 1\c_package\plagarism\htmlfix.c
+	<stdio.h>
+	"htmlFix.h"
+
+1671073828 k:\sai\college\sem 1\c_package\plagarism\htmlfix.h
+
+1671062421 source:k:\sai\college\sem 1\c_package\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1671062422 k:\sai\college\sem 1\c_package\plagarism\lines_calc.h
+	<stdio.h>
+
+1677199133 source:d:\college\sem 1\c_package\plagarism\htmlfix.c
+	<stdio.h>
+	"htmlFix.h"
+
+1671025228 d:\college\sem 1\c_package\plagarism\htmlfix.h
+
+1677198424 source:d:\college\sem 1\c_package\plagarism\lines_calc.c
+	<stdio.h>
+	"Lines_Calc.h"
+
+1671013822 d:\college\sem 1\c_package\plagarism\lines_calc.h
+	<stdio.h>
+
+1677199589 source:d:\college\sem 1\c_package\plagarism\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Lines_Calc.h"
+	"htmlFix.h"
+
+1677197179 source:d:\college\sem 1\c_package\plagarism\file_path_fix.c
+	"File_path_fix.h"
+	<string.h>
+
+1677196940 d:\college\sem 1\c_package\plagarism\file_path_fix.h
+
